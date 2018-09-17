@@ -65,7 +65,7 @@
         },
         "offerId": {
             "type": "string",
-            "defaultValue": "MS-AZR-0003P",
+            "defaultValue": "MS-AZR-0029P",
             "allowedValues": [
                 "MS-AZR-0003P",
                 "MS-AZR-0059P",
@@ -73,7 +73,8 @@
                 "MS-AZR-0063P",
                 "MS-AZR-0064P",
                 "MS-AZR-0025P",
-                "MS-AZR-0015P"
+                "MS-AZR-0015P",
+                "MS-AZR-0029P"
             ],
             "metadata": {
                 "description": "Your offer type. More details here: https://azure.microsoft.com/en-us/support/legal/offer-details/"
